@@ -1,0 +1,14 @@
+/vendor
+node_modules/
+
+.env.*.php
+.env.php
+.env
+.vagrant
+
+Homestead.yaml
+
+bootstrap/cache/
+
+# Rocketeer PHP task runner and deployment package. https://github.com/rocketeers/rocketeer
+.rocketeer/
